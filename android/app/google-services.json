@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "829715613084",
+    "project_id": "elearnapp-17458",
+    "storage_bucket": "elearnapp-17458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829715613084:android:97d13ae1940a9acac73459",
+        "android_client_info": {
+          "package_name": "com.elearnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829715613084-p1o3a4mh5racuasi66ts164cm4t32v9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elearnapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "829715613084-5kj0g5dhj3cp8cmq29nvr6brb7gidg3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdIOiLa3EXn_demF-Wodm81Esn9weSbXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829715613084-5kj0g5dhj3cp8cmq29nvr6brb7gidg3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
